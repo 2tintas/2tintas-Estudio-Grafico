@@ -1,0 +1,198 @@
+body {
+    font-family: Montserrat, sans-serif;
+    background: #C6C6C5;
+    
+}
+
+.marca {
+    width: 200px;
+    margin: 20px;
+    position: relative;
+    left: 10px;
+}
+
+header {
+    display: flex;
+    background: #F5F5F5;
+}
+
+nav {
+    display: flex;
+    position: relative;
+    left: 250px;
+}
+
+.input {
+    margin: 30px;
+    font-family: Montserrat, sans-serif;
+}
+.input2 {
+    font-family: Montserrat, sans-serif;
+    position: relative;
+    right: 20px;
+    
+}
+
+.lista {
+    display: flex;
+    list-style: none;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: #000000;
+    font-weight: 600;
+    }
+
+.elemento {
+    margin: 15px;
+    
+}
+.articulo {
+    text-align: center;
+    margin: auto;
+}
+
+.Ballena {
+    margin: 25px;
+}
+
+.h1 {
+    margin: 50px;
+    
+}
+.video {
+    height: 400px;
+    margin: 25px;
+}
+
+footer {
+    display: flex;
+    margin: 50px;
+    padding: 25px;
+    background: #F5F5F5;
+    color: #000000;
+    text-align: start;
+    font-size: 12px;
+    }
+    
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: #000000;
+    font-weight: 600;
+    }
+    
+.pie1 {
+    position: relative;
+    left: 400px;
+    margin: 8px;
+    top: -2px;
+    line-height: 2.2;
+    top: -6px;
+    
+}
+.pie2 {
+    position: relative;
+    left: 470px;
+    margin: 8px;
+    top: -2px;
+}
+
+.pie3 {
+    position: relative;
+    left: 420px;
+    margin: 8px;
+    list-style: none;
+    line-height: 2.2;
+    top: -5px;
+}
+
+
+article {
+    text-align: center;
+    margin: 50px;
+    line-height: 1.5;   
+}
+
+.nombreyapellido {
+    font-family: Montserrat, sans-serif;
+    padding: 20px;
+    text-align: left;
+    position: relative;
+    right: 105px;
+}
+
+.correo {
+    font-family: Montserrat, sans-serif;
+    padding: 20px;
+    text-align: left;
+    position: relative;
+    top: 75px;
+    right: 319px;
+}
+
+.areadelmnj {
+    font-family: Montserrat, sans-serif;
+    padding: 20px;
+    text-align: left;
+    position: absolute;
+    width:400px;
+    height: 92px;
+    right: 325px;
+}
+
+.botonenviar {
+    position: absolute;
+    right: 325px;
+    top: 380px;
+}
+
+.icono_1 {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 500px;
+}
+.icono_2 {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 475px;
+    top: 28px;
+}
+.icono_3 {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 450px;
+    top: 56px;
+}
+
+.copyright {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    
+}
+
+.icono_4 {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 420px;
+}
+
+.icono_5 {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: 395px;
+    top: 28px;
+    
+}
+.textcopy {
+    position: relative;
+    top: -10px;
+    left: 10px;
+    
+}
